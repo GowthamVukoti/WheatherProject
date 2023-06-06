@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules/
+dist/
+
+# Environment files
+.env
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Compiled files
+*.o
+*.class
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
